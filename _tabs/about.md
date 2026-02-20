@@ -35,4 +35,8 @@ order: 4
 <br>
 <br>
 
-### 배우고(Learn), 실행하는(Run)
+### 배우고(Learn), 실행하는(Run)  
+
+<hr style="height: 5px; background-color: #777; border: none;">
+
+### 블로그 이관 중...

@@ -5,6 +5,12 @@ categories: [New_Learn, KINESIOLOGY]
 tags: [KINESIOLOGY]
 ---
 
+## [시리즈] 데이터 분석: 관절 중심화
+1. **관절면 안에서 회전축 사수하기 (현재 글)**
+2.
+
+<hr style="height: 5px; background-color: #777; border: none;">
+
 ## 관절 움직임의 목표: 탈구와 충돌의 위험에서 벗어나기
 고관절(hip joint)은 관절이 깊어 안정적이고,  
 견관절(shoulder joint)은 얕아서 안정성은 떨어지지만 더 다양한 움직임이 가능하다.  
@@ -39,7 +45,7 @@ tags: [KINESIOLOGY]
 
 <hr style="height: 5px; background-color: #777; border: none;">
 
-## 데이터로 보는 관점: 관절 중심화를 수치화하는 방법
+## 데이터로 보는 관점: 관절 중심화를 측정하는 방법
 이제는 물리치료사의 '손'과 '눈'으로 느끼던 감각을 이제는 데이터(Data)로 증명해야 하는 시기라고 생각한다.    
 오늘 주제로 살펴본 핵심인 관절 중심화를 수치화할 수 있는 데이터 포인트 두가지에 대해 고민해봤다.  
 <br>

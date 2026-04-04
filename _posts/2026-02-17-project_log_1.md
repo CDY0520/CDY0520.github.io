@@ -1,7 +1,7 @@
 ---
 title: "팀 프로젝트1: 내성균 및 항생제 내성 여부 이진분류를 위한 SQL 피처 엔지니어링"
 date: 2026-02-17 12:11:00 +0900
-categories: [New_Run, LOG]
+categories: [New_Run, Project_LOG]
 tags: [LOG]
 ---
 

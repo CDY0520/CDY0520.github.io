@@ -2,13 +2,13 @@
 title: "팀 프로젝트1: 내성균 및 항생제 내성 여부 이진분류를 위한 SQL 피처 엔지니어링"
 date: 2026-02-17 12:11:00 +0900
 categories: [New_Run, Project_LOG]
-tags: [LOG]
+tags: [Project_LOG]
 ---
 
 ## [시리즈] 팀 프로젝트1: 감염병 모니터링 서비스 개발
 1. **팀 프로젝트1: 내성균 및 항생제 내성 여부 이진분류를 위한 SQL 피처 엔지니어링 (현재 글)**
-2. [팀 프로젝트1: First Isolation 규칙을 적용하여 시계열 예측을 위한 데이터 정제](/posts/log_2/)
-3. [팀 프로젝트1: 임상적 유의성과 예측 성능을 모두 고려한 감염병 이상치 탐지 설계](/posts/log_3/)
+2. [팀 프로젝트1: First Isolation 규칙을 적용하여 시계열 예측을 위한 데이터 정제]
+3. [팀 프로젝트1: 임상적 유의성과 예측 성능을 모두 고려한 감염병 이상치 탐지 설계]
 
 <hr style="height: 5px; background-color: #777; border: none;">
 

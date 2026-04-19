@@ -5,9 +5,6 @@ categories: [New_Run, Project_LOG]
 tags: [Project_LOG]
 ---
 
-## [시리즈 이어보기] 팀 프로젝트1: 감염병 모니터링 서비스 개발
-* **전체 목록**: [시리즈 시작점으로 돌아가기]
-
 <hr style="height: 5px; background-color: #777; border: none;">
 
 ## 개요

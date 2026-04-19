@@ -1,8 +1,8 @@
 ---
 title: "팀 프로젝트1: First Isolation 규칙을 적용하여 시계열 예측을 위한 데이터 정제"
 date: 2026-02-17 13:10:00 +0900
-categories: [New_Run, Project_LOG]
-tags: [Project_LOG]
+categories: [New_Run, LOG]
+tags: [LOG]
 ---
 
 <hr style="height: 5px; background-color: #777; border: none;">
